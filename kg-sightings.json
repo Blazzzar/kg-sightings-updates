@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/kg-sightings",
 	"channels": {
 		"beta": {
-			"version": "0.1.0-beta.6",
+			"version": "0.1.0-beta.7",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.4",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.6.zip",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.7.zip",
 			"sections": {
-				"changelog": "<h4>0.1.0-beta.6</h4><p>The line under \"Knocking Ghost\" at the top of the panel, and on the login screen, now reads \"Sightings\" instead of \"Mori sightings\".</p>"
+				"changelog": "<h4>0.1.0-beta.7</h4><p>A Reset button next to each person's login count on the settings page. It sets the count to 0, clears \"last opened the map\", and removes that person's rows from the Activity list. Their password and current logins are not affected.</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "0.1.0-beta.7",
+			"released": "2026-11-16",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.7.zip"
+		},
 		{
 			"version": "0.1.0-beta.6",
 			"released": "2026-11-16",
@@ -34,11 +39,6 @@
 			"version": "0.1.0-beta.3",
 			"released": "2026-11-16",
 			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.3.zip"
-		},
-		{
-			"version": "0.1.0-beta.2",
-			"released": "2026-11-16",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.2.zip"
 		}
 	]
 }
