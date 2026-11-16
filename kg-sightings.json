@@ -1,0 +1,24 @@
+{
+	"name": "KG Sightings",
+	"slug": "kg-sightings",
+	"homepage": "https://github.com/Blazzzar/kg-sightings",
+	"channels": {
+		"beta": {
+			"version": "0.1.0-beta.1",
+			"requires": "5.5",
+			"tested": "6.8",
+			"requires_php": "7.4",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.1.zip",
+			"sections": {
+				"changelog": "<h4>0.1.0-beta.1</h4><p>First build: view-only map at /sightings/ with a password-only login, one password per person (Settings → KG Sightings), reading the private map's pins, photos and look without being able to change them.</p>"
+			}
+		}
+	},
+	"releases": [
+		{
+			"version": "0.1.0-beta.1",
+			"released": "2026-11-16",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.1.zip"
+		}
+	]
+}
