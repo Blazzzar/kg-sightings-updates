@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/kg-sightings",
 	"channels": {
 		"beta": {
-			"version": "0.1.0-beta.3",
+			"version": "0.1.0-beta.4",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.4",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.3.zip",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.4.zip",
 			"sections": {
-				"changelog": "<h4>0.1.0-beta.3</h4><p>The settings page can show each person's password again (Show and Copy buttons in their row), and spaces typed before or after a password are ignored at login.</p>"
+				"changelog": "<h4>0.1.0-beta.4</h4><p>Activity list on the settings page: who logged in, who opened the map and when, plus wrong-password attempts.</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "0.1.0-beta.4",
+			"released": "2026-11-16",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.4.zip"
+		},
 		{
 			"version": "0.1.0-beta.3",
 			"released": "2026-11-16",
