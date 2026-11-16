@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/kg-sightings",
 	"channels": {
 		"beta": {
-			"version": "0.1.0-beta.4",
+			"version": "0.1.0-beta.5",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.4",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.4.zip",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.5.zip",
 			"sections": {
-				"changelog": "<h4>0.1.0-beta.4</h4><p>Activity list on the settings page: who logged in, who opened the map and when, plus wrong-password attempts.</p>"
+				"changelog": "<h4>0.1.0-beta.5</h4><p>Each row in the list shows its pin icon at the right: the sticker icon for stickers, the ghost for other pieces, the X for planned spots, faded when a piece is gone.</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "0.1.0-beta.5",
+			"released": "2026-11-16",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.5.zip"
+		},
 		{
 			"version": "0.1.0-beta.4",
 			"released": "2026-11-16",
