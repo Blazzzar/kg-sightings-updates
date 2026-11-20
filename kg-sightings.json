@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/kg-sightings",
 	"channels": {
 		"beta": {
-			"version": "0.1.0-beta.10",
+			"version": "0.1.0-beta.11",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.4",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.10.zip",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.11.zip",
 			"sections": {
-				"changelog": "<h4>0.1.0-beta.10</h4><p>A Home button in the panel header, to the right of the logo and title, that goes to the Knocking Ghost home page. On phones, Home is also the third item in the bottom bar.</p>"
+				"changelog": "<h4>0.1.0-beta.11</h4><p>Each pin on the view-only map shows its town and state, for example \"Chicago, IL\", in the list and on the pin card.</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "0.1.0-beta.11",
+			"released": "2026-11-20",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.11.zip"
+		},
 		{
 			"version": "0.1.0-beta.10",
 			"released": "2026-11-20",
@@ -34,11 +39,6 @@
 			"version": "0.1.0-beta.7",
 			"released": "2026-11-16",
 			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.7.zip"
-		},
-		{
-			"version": "0.1.0-beta.6",
-			"released": "2026-11-16",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.6.zip"
 		}
 	]
 }
