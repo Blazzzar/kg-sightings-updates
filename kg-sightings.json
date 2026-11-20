@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/kg-sightings",
 	"channels": {
 		"beta": {
-			"version": "0.1.0-beta.8",
+			"version": "0.1.0-beta.9",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.4",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.8.zip",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.9.zip",
 			"sections": {
-				"changelog": "<h4>0.1.0-beta.8</h4><p>The view-only map no longer shows the date and time a piece was placed.</p>"
+				"changelog": "<h4>0.1.0-beta.9</h4><p>A switch to open the map to everyone: Settings → KG Sightings → \"Who can open the map\" → \"Anyone with the address — no password\".</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "0.1.0-beta.9",
+			"released": "2026-11-20",
+			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.9.zip"
+		},
 		{
 			"version": "0.1.0-beta.8",
 			"released": "2026-11-19",
@@ -34,11 +39,6 @@
 			"version": "0.1.0-beta.5",
 			"released": "2026-11-16",
 			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.5.zip"
-		},
-		{
-			"version": "0.1.0-beta.4",
-			"released": "2026-11-16",
-			"download_url": "https://blazzzar.github.io/kg-sightings-updates/zips/kg-sightings-v0.1.0-beta.4.zip"
 		}
 	]
 }
